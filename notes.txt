@@ -1,4 +1,4 @@
-<<<<<< HEAD
+This line changed in friend folder.
 =======
 >>>>>>> conflict-branch
 This is added in feature branch.
