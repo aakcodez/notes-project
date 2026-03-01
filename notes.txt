@@ -1,2 +1,4 @@
 This line changed in main folder.
+This line changed in friend folder.
+
 This line is added by friend.
