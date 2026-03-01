@@ -1,2 +1,2 @@
-This is my first note.
+The line is changed in conflict branch.
 This is added in feature branch.
