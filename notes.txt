@@ -2,3 +2,5 @@
 =======
 >>>>>>> conflict-branch
 This is added in feature branch.
+
+This line is added by friend.
